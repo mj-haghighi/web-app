@@ -28,7 +28,7 @@ const Button = (props) => {
             onMouseDown={onMouseDown}
             onMouseUp={onMouseUp}
             style={style}
-            className={`flex-1 ease button marg-1 padd-1 round-1 txt-col-pri bold ${styles} ${className}`} onClick={onClick}>
+            className={`ease button marg-1 padd-1 round-1 txt-col-pri bold ${styles} ${className}`} onClick={onClick}>
             {children}
         </button>
     )
