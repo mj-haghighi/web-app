@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'css/index.css';
 import 'css/round.css';
+import 'css/text.css';
 import 'css/layout.css';
 import 'css/animation.css';
 import 'css/color.light.css';
