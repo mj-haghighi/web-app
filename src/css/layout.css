@@ -94,3 +94,59 @@
   margin-top: 21px;
   margin-bottom: 21px;
 }
+
+.padd-0 {
+  padding: 0px;
+}
+
+.padd-1 {
+  padding: 7px;
+}
+
+.padd-2 {
+  padding: 14px;
+}
+
+.padd-3 {
+  padding: 21px;
+}
+
+.paddh-0 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.paddh-1 {
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.paddh-2 {
+  padding-left: 14px;
+  padding-right: 14px;
+}
+
+.paddh-3 {
+  padding-left: 21px;
+  padding-right: 21px;
+}
+
+.paddv-0 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.paddv-1 {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.paddv-2 {
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+.paddv-3 {
+  padding-top: 21px;
+  padding-bottom: 21px;
+}
